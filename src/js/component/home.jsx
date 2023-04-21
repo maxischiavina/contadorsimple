@@ -11,7 +11,7 @@ const Home = (props) => {
 
 <div className="card bg-dark">
   <div className="card-body">
-  <div className="text-white me-4  fs-1"><i className="fa-regular fa-clock"></i></div>
+  <div className="text-white me-4 fs-1"><i className="far fa-clock"></i></div>
 	</div>
 	</div>
 

@@ -65,4 +65,4 @@ setInterval(function() {
                     num6
                 }
                 />, document.querySelector("#app"));
-            }, 0.0001)
+            }, 1000)
